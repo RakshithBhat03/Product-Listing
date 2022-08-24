@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Men Olive Green Fleece Bomber Jacket Full Sleeve Solid Men Bomber Jacket",
+      "url": "./assets/Men Olive Green Fleece Bomber Jacket Full Sleeve Solid Men Bomber Jacket.webp",
+      "link": "https://www.flipkart.com/rigo-full-sleeve-solid-men-jacket/p/itm1f7460757c650?pid=JCKG77TSTGFY3SW2&lid=LSTJCKG77TSTGFY3SW2PHBRED&marketplace=FLIPKART&store=clo&srno=b_1_1&otracker=browse&fm=organic&iid=en_swq6t0znRDuUCF2IwSDy3jU7HFt%2FiW2fps8l2WdSHnX0ROrlVDbTEkeymya0tFTZdrK6cKSWs7SdkTkH3x8wYQ%3D%3D&ppt=browse&ppn=browse&ssid=qby3jrfr8w0000001661348616867",
+      "price": 499,
+      "brand": "RIGO",
+      "size": ["S", "M"],
+      "gender": "male"
+    },
+    {
+      "id": "2",
+      "name": "Striped Men Polo Neck White, Blue, Yellow T-Shirt",
+      "url": "./assets/Striped Men Polo Neck White, Blue, Yellow T-Shirt.webp",
+      "link": "https://www.flipkart.com/eyebogler-striped-men-polo-neck-white-blue-yellow-t-shirt/p/itm5e2f30fc1f038?pid=TSHGA4MHWHADTZJJ&lid=LSTTSHGA4MHWHADTZJJSXRUNB&marketplace=FLIPKART&store=clo&srno=b_1_3&otracker=browse&fm=organic&iid=08841357-1d22-41ec-a369-e1a5df59f230.TSHGA4MHWHADTZJJ.SEARCH&ppt=browse&ppn=browse&ssid=qby3jrfr8w0000001661348616867",
+      "price": 368,
+      "brand": "Eyebogler",
+      "size": ["S", "M", "L"],
+      "gender": "male"
+    },
+    {
+      "id": "3",
+      "name": "Color Block Men Hooded Neck Red, Black T-Shirt",
+      "url": "./assets/Color Block Men Hooded Neck Red, Black T-Shirt.webp",
+      "link": "https://www.flipkart.com/helmont-color-block-men-hooded-neck-red-black-t-shirt/p/itmfdfvufw3fmuhz?pid=TSHFDFTFSXQFPZWD&lid=LSTTSHFDFTFSXQFPZWDBJTX10&marketplace=FLIPKART&store=clo&srno=b_1_6&otracker=browse&fm=organic&iid=08841357-1d22-41ec-a369-e1a5df59f230.TSHFDFTFSXQFPZWD.SEARCH&ppt=browse&ppn=browse&ssid=qby3jrfr8w0000001661348616867",
+      "price": 284,
+      "brand": "HELMONT",
+      "size": ["S", "M", "L", "XL"],
+      "gender": "male"
+    },
+    {
+      "id": "4",
+      "name": "Skinny Women Dark Blue Jeans",
+      "url": "./assets/Skinny Women Dark Blue Jeans.webp",
+      "link": "https://www.flipkart.com/herway-skinny-women-dark-blue-jeans/p/itmffgwwdfsp9kzh?pid=JEAFKVHHAYSQMACT&lid=LSTJEAFKVHHAYSQMACTDKZNYL&marketplace=FLIPKART&store=clo&srno=b_1_5&otracker=browse&fm=organic&iid=17e4c73f-80a5-4c0d-9020-07f10a34dc72.JEAFKVHHAYSQMACT.SEARCH&ppt=browse&ppn=browse&ssid=qby3jrfr8w0000001661348616867",
+      "price": 672,
+      "brand": "Herway",
+      "size": ["S", "L", "XL"],
+      "gender": "female"
+    },
+    {
+      "id": "5",
+      "name": "Slim Women Black Jeans",
+      "url": "./assets/Slim Women Black Jeans.webp",
+      "link": "https://www.flipkart.com/tyffyn-slim-women-black-jeans/p/itm30f6531b54366?pid=JEAG9TBUF4Z8MZNU&lid=LSTJEAG9TBUF4Z8MZNUK2TOFC&marketplace=FLIPKART&store=clo&srno=b_1_6&otracker=browse&fm=organic&iid=17e4c73f-80a5-4c0d-9020-07f10a34dc72.JEAG9TBUF4Z8MZNU.SEARCH&ppt=browse&ppn=browse&ssid=qby3jrfr8w0000001661348616867",
+      "price": 499,
+      "brand": "TYFFYN",
+      "size": ["S", "M", "L"],
+      "gender": "female"
+    },
+    {
+      "id": "6",
+      "name": "Printed Women Round Neck Black T-Shirt",
+      "url": "./assets/Printed Women Round Neck Black T-Shirt.webp",
+      "link": "https://www.flipkart.com/puma-printed-women-round-neck-black-t-shirt/p/itm98f19d8aba96f?pid=TSHFZ93MBSSY3NQG&lid=LSTTSHFZ93MBSSY3NQGQIYV2N&marketplace=FLIPKART&store=clo&srno=b_1_32&otracker=browse&fm=organic&iid=en_XrwgEhgxR2i7ebPt1mDCo%2FttO7zqJbZDl5ZIBY7OZBCaxRK2QN%2F6D42WOIt8uY2dfO3oFUtMBJfe3JkZvOMRJQ%3D%3D&ppt=browse&ppn=browse&ssid=qby3jrfr8w0000001661348616867",
+      "price": 779,
+      "brand": "PUMA",
+      "size": ["S", "M"],
+      "gender": "female"
+    }
+  ]
+}
